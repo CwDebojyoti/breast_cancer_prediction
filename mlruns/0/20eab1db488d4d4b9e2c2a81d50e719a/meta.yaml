@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Documents%20%26%20Books/AI%26ML/Data%20Science/Projects/Breast%20Cancer%20Prediction/breast_cancer_prediction_app/mlruns/0/20eab1db488d4d4b9e2c2a81d50e719a/artifacts
+end_time: 1758722119254
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 20eab1db488d4d4b9e2c2a81d50e719a
+run_name: mysterious-cub-293
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758722114244
+status: 3
+tags: []
+user_id: deboj

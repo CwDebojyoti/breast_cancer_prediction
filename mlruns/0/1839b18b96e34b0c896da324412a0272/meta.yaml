@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Documents%20%26%20Books/AI%26ML/Data%20Science/Projects/Breast%20Cancer%20Prediction/breast_cancer_prediction_app/mlruns/0/1839b18b96e34b0c896da324412a0272/artifacts
+end_time: 1758720912445
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1839b18b96e34b0c896da324412a0272
+run_name: polite-jay-795
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758720906018
+status: 3
+tags: []
+user_id: deboj
